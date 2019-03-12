@@ -1,0 +1,5 @@
+DOMAIN = "production-xxxxx-xxxxxx.demandware.net"
+PATH = "/on/demandware.servlet/webdav/Sites/Logs/"
+USER = "WEBDAV_USERNAME_HERE"
+PASSWORD = "WEBDAV_PASSWORD_HERE"
+PERSIS_DIR = "state"
